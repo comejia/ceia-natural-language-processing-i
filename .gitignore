@@ -1,1 +1,17 @@
 .DS_Store
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.bak
+*.tmp
+*.env
