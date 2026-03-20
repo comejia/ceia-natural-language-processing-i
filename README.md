@@ -21,14 +21,6 @@ Este proyecto es parte del programa CEIA (Especialización en Inteligencia Artif
 pip install -r requirements.txt
 ```
 
-## Uso
-
-Ejecuta los notebooks o scripts en el directorio del proyecto:
-
-```bash
-python nombre_script.py
-```
-
 ## Desafios
 
 - [Desafío 1](./Desafios/Desafio_1.ipynb)

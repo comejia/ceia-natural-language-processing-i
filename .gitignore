@@ -15,3 +15,5 @@ build/
 *.bak
 *.tmp
 *.env
+*.pkl
+**/songs_dataset
