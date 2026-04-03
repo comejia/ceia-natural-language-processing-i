@@ -19,3 +19,4 @@ build/
 **/songs_dataset
 *.tsv
 full_corpus.csv
+*.keras
