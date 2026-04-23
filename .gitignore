@@ -21,3 +21,4 @@ build/
 full_corpus.csv
 *.keras
 wiki-news-300d-1M.vec*
+spa-eng*
